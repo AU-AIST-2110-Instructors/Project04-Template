@@ -1,5 +1,5 @@
 
-# Part 5: Creative Extension
+# Part 4: Creative Extension
 
 In this final part, you’ll have the opportunity to take everything you've learned and make the escape adventure game your own. Now that you’ve implemented a solid structure with room navigation, key collection, and locked doors, it’s time to get creative and expand the game in any direction you like.
 
