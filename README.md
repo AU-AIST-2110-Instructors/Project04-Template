@@ -11,7 +11,7 @@ Your game *must* implementing at least:
 
 - **A new mechanic:** Introduce new gameplay elements such as puzzles, interactive objects, or other features that enhance the player's experience.
 
-- **A narrative (a background story):** Develop a storyline or background for the game that provides context and motivation for the player's actions, enriching the overall game atmosphere.
+- **A narrative (a background story):** Develop a storyline or background for the game that provides context and/or motivation for the player's actions.
 
 That is the minimum, you can implement as much features as you want.
 
@@ -21,7 +21,7 @@ Don't forget to give a name for your game (and maybe even create an [ascii art](
 - You can either start by copying the solution of part 3 posted in D2L, or continue on your own implementation (make sure to copy and paste your solution into this repository).
 
 ## (NEW) Presentation
-On 11/25, you will have the opportunity to present your game to the class, showcasing it to both your classmates and the instructor. 
+On 11/25, you will present your game to the class, showcasing it to both your classmates and the instructor. Details on the presentation format will be detailed in class and announcements.
 
 ## How to Submit
 
@@ -44,12 +44,12 @@ On 11/25, you will have the opportunity to present your game to the class, showc
 
 ## (NEW) Suggestions for Expansion
 
-The following are **just suggestions** and you don't need to implement all of them. You can choose ideas from the list, or come up with your own creative features and additions. These suggestions are provided to inspire you.
+The following are **just suggestions** to inspire you and you don't need to implement all of them. You can choose ideas from the list, or come up with your own features and additions.
 
 
 ### 1. Add More Rooms or Create a new Environment
 - Expand the house by adding more rooms, or even create a different environment. 
-- Each room could have a unique description that adds depth to the narrative and environment.
+- Each room could have a unique description that adds to the game narrative.
 - Implement new rooms with hidden passages, or even secret rooms that can only be accessed through a combination of keys or actions.
 
 
