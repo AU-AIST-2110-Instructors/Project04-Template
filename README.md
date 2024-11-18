@@ -24,6 +24,8 @@ That is the minimum, you can implement as much features as you want.
 
 Don't forget to give a name for your game (and maybe even create an [ascii art](https://en.wikipedia.org/wiki/ASCII_art) logo).
 
+**Important: The game design and implementation should reflect your own creativity and be developed entirely through your individual efforts. During the presentation, you will be asked to explain the game and describe how it was implemented.**
+
 ## (NEW) Presentation
 On 11/25, you will present your game to the class, showcasing it to both your classmates and the instructor. Details on the presentation format will be detailed in class and announcements.
 
